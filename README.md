@@ -1,4 +1,4 @@
-🖨️ ft_printf
+# 🖨️ ft_printf
 
 For my second project at Hive Helsinki, I built my own version of printf! 🛠️ The goal was to recreate its functionality from scratch, handling the following conversions: c, s, p, d, i, u, x, X, and %.
 
